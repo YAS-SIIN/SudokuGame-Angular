@@ -1,6 +1,6 @@
 # Sudoku Game in Angular
 
-An Angular 18 Sudoku application that generates boards from the Sugoku API, lets players inspect and fill empty cells, validates the current puzzle state, and can request a full solution from the same API.
+An Angular 18 Sudoku game that generates boards from the Sugoku API, lets players inspect and fill empty cells, validates the current puzzle state, and can request a full solution from the same API.
 
 This project is built with standalone Angular components, SCSS styling, Bootstrap-based layout utilities, toast notifications, and a lightweight loading skeleton while a board is being fetched.
 
